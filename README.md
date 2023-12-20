@@ -44,11 +44,12 @@ To prevent overfitting and find the optimal number of training epochs, we employ
 
 ## Models
 
-1. **MobileNetV2**: 
+1. **MobileNetV2**: A lightweight convolutional neural network architecture designed for mobile and edge devices.
 
-2. **EfficientNetB0**: 
+2. **EfficientNetB0**: Part of the EfficientNet family, known for balancing model efficiency and accuracy.
 
-3. **Xception**: 
+3. **Xception**: A highly efficient convolutional neural network architecture known for its exceptional performance in image classification tasks.
+
 
 ## Usage
 
